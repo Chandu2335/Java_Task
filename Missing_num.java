@@ -3,7 +3,7 @@ public class MissingNumber {
 
         int arr[] = {1, 2, 3, 5, 6};
 
-        int n = 10; // numbers are from 1 to 6
+        int n = 15; // numbers are from 1 to 6
 
         int total = n * (n + 1) / 2;
 
